@@ -1,0 +1,41 @@
+artist_id                           |artist_name|stage_name |birth_date|website             |instagram|has_performed|
+------------------------------------+-----------+-----------+----------+--------------------+---------+-------------+
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |true         |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |true         |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+01235856-2fde-447c-9658-eb4f5c035c6f|artist 1   |stagename1 |1996-10-28|https://artist1.com |@artist1 |false        |
+de7970c0-5da1-4734-aebe-dc593285544b|artist 12  |stagename12|1997-10-11|https://artist12.com|@artist12|false        |
+ba99f93f-fa08-40bc-a7ba-3e8f95b09ee1|artist 14  |stagename14|1998-05-14|https://artist14.com|@artist14|false        |
+33bcdf86-041b-4d69-9fe2-fa07e4889db1|artist 18  |stagename18|1991-09-10|https://artist18.com|@artist18|false        |
+bb2ca58b-b087-42f7-b5de-1947537d0198|artist 21  |stagename21|1999-03-16|https://artist21.com|@artist21|false        |
+3d9ac4a6-543e-46d1-a39b-cb8062d80325|artist 24  |stagename24|1999-05-13|https://artist24.com|@artist24|false        |
+3308b52e-facd-41d7-a11b-9dc087ee9800|artist 25  |stagename25|1993-07-08|https://artist25.com|@artist25|false        |
+c18a0836-eda8-4bf6-8a56-681585a1a1c4|artist 26  |stagename26|1995-02-05|https://artist26.com|@artist26|false        |
+062605ae-541e-40ff-b6f4-5a53e3e21940|artist 27  |stagename27|1994-03-05|https://artist27.com|@artist27|false        |
+a3327fcb-aa0f-4442-b0c0-29620cfe0f03|artist 28  |stagename28|1999-10-28|https://artist28.com|@artist28|false        |
+10e01de2-c625-4c3b-9dc0-4a0d3eeb8b3f|artist 29  |stagename29|1994-07-25|https://artist29.com|@artist29|false        |
+f77fd8bf-dfea-45e9-9ec4-e934c8105471|artist 3   |stagename3 |2000-11-13|https://artist3.com |@artist3 |false        |
+578c5e9a-0f70-43ea-963c-9f8c4cb37b9a|artist 34  |stagename34|1996-01-05|https://artist34.com|@artist34|false        |
+28c84b85-52eb-49ae-a9b4-00cfba9103ed|artist 36  |stagename36|1999-09-19|https://artist36.com|@artist36|false        |
+361a9fa9-762c-45f5-bfaa-51b96cf4a5cc|artist 37  |stagename37|1992-03-08|https://artist37.com|@artist37|false        |
+e5f60b95-8925-4bb5-a341-85006c0a9585|artist 38  |stagename38|1996-05-04|https://artist38.com|@artist38|false        |
+2d253001-2ba1-47f0-a1c5-462fb7ef95d9|artist 39  |stagename39|1994-05-05|https://artist39.com|@artist39|false        |
+13c5ac53-a47c-4a5a-b45b-2589eaa319bd|artist 4   |stagename4 |1992-07-20|https://artist4.com |@artist4 |false        |
+ac20e195-8ae7-4fb4-9f9d-fd70abd680a8|artist 41  |stagename41|1993-11-24|https://artist41.com|@artist41|false        |
+c23f29d2-35c5-47dc-ac58-8aa6ed0319cd|artist 42  |stagename42|1991-10-20|https://artist42.com|@artist42|false        |
+456bc053-bca2-4ef7-b5cc-8562fa84df66|artist 49  |stagename49|1998-11-09|https://artist49.com|@artist49|false        |

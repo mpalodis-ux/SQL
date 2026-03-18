@@ -1,0 +1,5 @@
+name1|name2|fest_year|sum|
+-----+-----+---------+---+
+greek|rock |     2022|  4|
+greek|rock |     2024|  3|
+greek|rock |     2025|  3|

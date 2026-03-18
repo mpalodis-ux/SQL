@@ -1,0 +1,3 @@
+artist_name|times_warmup|
+-----------+------------+
+artist 1   |           9|

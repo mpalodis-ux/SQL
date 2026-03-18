@@ -1,0 +1,8 @@
+artist_name|sum|
+-----------+---+
+artist 10  |  3|
+artist 19  |  1|
+artist 50  |  1|
+artist 34  |  1|
+artist 28  |  1|
+artist 45  |  1|

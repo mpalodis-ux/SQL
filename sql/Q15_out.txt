@@ -1,0 +1,7 @@
+first_name|last_name|coalesce |interpretation|
+----------+---------+---------+--------------+
+first961  |last961  |artist 1 |             5|
+first352  |last352  |artist 1 |             5|
+first338  |last338  |artist 10|             5|
+first146  |last146  |artist 1 |             5|
+first85   |last85   |artist 1 |             5|

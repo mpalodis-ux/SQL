@@ -1,0 +1,3 @@
+genres_name|fest_year|counter|
+-----------+---------+-------+
+rock       |     2022|      5|

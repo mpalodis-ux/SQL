@@ -1,0 +1,3 @@
+artist_name|continent_count|
+-----------+---------------+
+artist 1   |              4|
